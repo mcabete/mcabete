@@ -16,3 +16,11 @@ Sou do Brasil
 </p>
 
 Instagram linkedin 
+
+## Linguagnes:
+
+<p align="center">
+   <img src="htmlGithub.png" width="150" />
+  <img src="cssGithub.png" width="150" />
+  <img src="jsGitHub.png" width="150" />
+</p>
