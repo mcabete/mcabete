@@ -10,9 +10,9 @@ Atualmente estou aprendendo e desenvolvendo projetos com HTML, CSS e JavaScript,
 ## Redes Sociais:
 
 <p align="center">
-  <a href="https://www.instagram.com/mcabete_/"><img src="logoInstagram.png" alt="Logo do instagram" width="45" hspace="30" /></a>
-  <a href="https://www.linkedin.com/in/mcabete/"><img src="logoLinkedIN.png" alt="Logo do LinkedIn" width="45" /></a>
-  <a href="mailto:marianacabete01@gmail.com"> <img src="emailGitHub.png" width="35" alt="Gmail"/>
+  <a href="https://www.instagram.com/mcabete_/"><img src="logoInstagram.png" alt="Logo do instagram" width="45" hspace="10" /></a>
+  <a href="https://www.linkedin.com/in/mcabete/"><img src="logoLinkedIN.png" alt="Logo do LinkedIn" width="45" hspace="110" /></a>
+  <a href="mailto:marianacabete01@gmail.com"> <img src="emailGitHub.png" alt="Gmail" width="60" />
 </p>
 
 ## Linguagens:
