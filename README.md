@@ -1,9 +1,9 @@
 # Olá! Eu sou Cabete 👋
 <img src="bandeiraDoBrasil.png" alt="bandeira do Brasil" width="30"/>
 
-Sou uma estudante de curso técnico em desenvolvimento em sistema do ensino médio, moro em São Paulo capital no Brasil
+Sou estudante do 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas e moro em São Paulo, Brasil.
 
-Atualmente estou estudando python.
+Atualmente estou aprendendo e desenvolvendo projetos com HTML, CSS e JavaScript, além de utilizar Git e GitHub para organizar e compartilhar meus códigos. Comecei a estudar Python.
 
 ---
 
