@@ -15,8 +15,6 @@ Atualmente estou estudando python.
   <a href="https://www.linkedin.com/in/mcabete/"><img src="logoLinkedIN.png" alt="Logo do LinkedIn" width="45" /></a>
 </p>
 
-Instagram linkedin 
-
 ## Linguagens:
 
 <p align="center">
