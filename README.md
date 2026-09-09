@@ -4,23 +4,23 @@ Sou uma estudante de curso técnico em desenvolvimento em sistema.
 
 Atualmente estou estudando python.
 
-Sou do Brasil
+<img src="bandeiraDoBrasil.png" alt="bandeira do Brasil" width="30"/>
 
 ---
 
 ## Redes Sociais:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=EjvfH5ZFguc"><img src="image.png" width="150" /></a>
-  <a href="https://www.youtube.com/watch?v=TsaLQAetPLU&t=273s"><img src="image.png" width="150" /></a>
+  <a href="https://www.instagram.com/mcabete_/"><img src="logoInstagram.png" alt="Logo do instagram" width="45" hspace="30" /></a>
+  <a href="https://www.linkedin.com/in/mcabete/"><img src="logoLinkedIN.png" alt="Logo do LinkedIn" width="45" /></a>
 </p>
 
 Instagram linkedin 
 
-## Linguagnes:
+## Linguagens:
 
 <p align="center">
-   <img src="htmlGithub.png" width="150" />
-  <img src="cssGithub.png" width="150" />
+   <img src="htmlGitHub.png" width="150" />
+  <img src="cssGiHub.png" width="150" />
   <img src="jsGitHub.png" width="150" />
 </p>
