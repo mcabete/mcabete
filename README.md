@@ -1,10 +1,9 @@
 # Olá! Eu sou Cabete 👋
+<img src="bandeiraDoBrasil.png" alt="bandeira do Brasil" width="30"/>
 
 Sou uma estudante de curso técnico em desenvolvimento em sistema do ensino médio, moro em São Paulo capital no Brasil
 
 Atualmente estou estudando python.
-
-<img src="bandeiraDoBrasil.png" alt="bandeira do Brasil" width="30"/>
 
 ---
 
@@ -18,7 +17,13 @@ Atualmente estou estudando python.
 ## Linguagens:
 
 <p align="center">
-   <img src="htmlGitHub.png" width="150" />
-  <img src="cssGiHub.png" width="150" />
-  <img src="jsGitHub.png" width="150" />
+   <img src="htmlGitHub.png" alt="Html GitHub" width="150" />
+  <img src="cssGiHub.png" alt="Css GitHub" width="150" />
+  <img src="jsGitHub.png" alt="Javascript GitHub" width="150" />
+</p>
+
+## Feramentas:
+
+<p align="center">
+  <img src="vsCodeGitHub.png" alt="vs code GitHub" width="150" />
 </p>
