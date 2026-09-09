@@ -1,6 +1,6 @@
 # Olá! Eu sou Cabete 👋
 
-Sou uma estudante de curso técnico em desenvolvimento em sistema.
+Sou uma estudante de curso técnico em desenvolvimento em sistema do ensino médio, moro em São Paulo capital no Brasil
 
 Atualmente estou estudando python.
 
