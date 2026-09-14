@@ -26,6 +26,7 @@ Atualmente estou aprendendo e desenvolvendo projetos com HTML, CSS e JavaScript,
 ## Feramentas:
 
 <p align="center">
-  <img src="vsCodeGitHub.png" alt="vs code GitHub" width="150" />
-    <img src="WordPress.png" alt="vs code GitHub" width="150" />
+  <img src="vsCodeGitHub.png" alt="vs code logo" width="150" />
+    <img src="WordPress.png" alt="WordPress logo" width="150" />
+      <img src="git.png" alt="Git logo" width="150" />
 </p>
