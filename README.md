@@ -27,4 +27,5 @@ Atualmente estou aprendendo e desenvolvendo projetos com HTML, CSS e JavaScript,
 
 <p align="center">
   <img src="vsCodeGitHub.png" alt="vs code GitHub" width="150" />
+    <img src="WordPress.png" alt="vs code GitHub" width="150" />
 </p>
